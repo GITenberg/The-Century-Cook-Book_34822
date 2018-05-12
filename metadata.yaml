@@ -1,0 +1,28 @@
+_repo: The-Century-Cook-Book_34822
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ronald, Mary
+    birthdate: 1844
+    deathdate: 1903
+    gutenberg_agent_id: '37257'
+    url: http://www.gutenberg.org/2009/agents/37257
+    wikipedia: http://www.gutenberg.org/browse/authors/a#a42498
+description: ''
+gutenberg_bookshelf: Cookery
+gutenberg_issued: '2011-01-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34822'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'TX'
+- !lcsh 'Cooking, American'
+title: The Century Cook Book
+url: http://www.gutenberg.org/ebooks/34822
